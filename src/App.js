@@ -1,8 +1,8 @@
 import React,{Component} from 'react';
-// import logo from './logo.svg';
-import './App.css';
 import Pm_number1 from './Pm_number1';
-import 'bootstrap/dist/css/bootstrap.min.css';
+// import 'bootstrap/dist/css/bootstrap.min.css';
+import './App.css';
+
 
 class App extends Component {
   render(){
